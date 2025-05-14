@@ -1,6 +1,6 @@
 Project details
 Project name:ST10440381 Part 1
-Netframe
+Netframe4.7.2
 Template :Console App c# netframework
 
 1 Keyword recognition
